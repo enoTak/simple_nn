@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# sample from text
+deep-learning-from-scratch/
+dataset/*.gz
